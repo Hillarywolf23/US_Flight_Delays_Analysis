@@ -50,7 +50,7 @@ This project explores flight delay patterns across the United States in 2015 usi
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ---
 
