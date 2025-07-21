@@ -43,9 +43,6 @@ This project explores flight delay patterns across the United States in 2015 usi
 | File | Description |
 |------|-------------|
 | `README.md` | Project overview |
-| `flights.xlsx` *(optional)* | Source dataset |
-| `airports.xlsx` *(optional)* | Source dataset |
-| `airlines.xlsx` *(optional)* | Source dataset |
 | `dashboard_preview.png` | Screenshot of the Tableau dashboard |
 
 
